@@ -1,0 +1,41 @@
+html body{
+    font-family: 'Open Sans', sans-serif;
+}
+body {
+    width: 750px;
+    margin: auto;
+    align-items: center;
+    border-radius: 5px;
+    box-shadow: 0 0 2em 0 #dddddd;
+}
+#main{
+    margin-top: 10px;
+    margin: 7.25%;
+}
+#kagura-big{
+    color: #2a60d2;
+    font-weight: 700;
+    white-space:nowrap;
+    font-size: 32px;
+    background: transparent;
+    margin-left: 1.5px;
+    margin-right: 0.75px;
+}
+#k-explain{
+    color: darkgrey;
+    font-family: 'Open Sans', sans-serif;
+    font-style: italic;
+    font-size: 16px;
+    font-weight: 100;
+    background: transparent;
+    
+}
+#counter {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin: 30px auto 0 auto;
+}
+h1{
+    color: #214e939c;
+}
