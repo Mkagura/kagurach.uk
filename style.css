@@ -1,17 +1,30 @@
 html body{
     font-family: 'Open Sans', sans-serif;
 }
-body {
-    width: 750px;
-    margin: auto;
-    align-items: center;
-    border-radius: 5px;
-    box-shadow: 0 0 2em 0 #dddddd;
+@media screen and (max-width: 900px){
+    body{
+        margin: auto;
+        align-items: center;
+    }
+    #main{
+        margin-top: 1px;
+        margin: 6%;
+        }
 }
-#main{
+@media screen and (min-width: 900px) {
+    body {
+        width: 750px;
+        margin: auto;
+        align-items: center;
+        border-radius: 5px;
+        box-shadow: 0 0 2em 0 #dddddd;
+    }
+    #main{
     margin-top: 10px;
     margin: 7.25%;
+    }
 }
+
 #kagura-big{
     color: #2a60d2;
     font-weight: 700;
