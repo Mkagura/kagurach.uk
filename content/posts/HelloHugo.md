@@ -2,6 +2,9 @@
 title: "Hello,Hugo"
 date: 2023-02-19T19:18:32+08:00
 draft: true
+isCJKLanguage: true
+featured_image: "https://pixiv.lolicon.cyou/img-original/img/2023/02/17/00/00/31/105447374_p0.png"
+
 ---
 # 0. 流浪博客计划
 博客一波三折，现在又变回了免费托管的样子。整个博客已经有几年了，下面做个时间轴
