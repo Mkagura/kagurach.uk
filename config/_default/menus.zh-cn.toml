@@ -22,13 +22,19 @@
 [[main]]
   name = "生活小寄巧"
   parent = "分类"
-  pageRef = "posts"
+  pageRef = "tags/生活小寄巧/"
   weight = 20
 
 [[main]]
   name = "服务器秒寄术"
   parent = "分类"
   pageRef = "tags/服务器秒寄术/"
+  weight = 20
+
+[[main]]
+  name = "什么不能买"
+  parent = "分类"
+  pageRef = "tags/什么不能买/"
   weight = 20
 
 [[main]]

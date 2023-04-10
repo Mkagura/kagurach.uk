@@ -2,6 +2,7 @@
 title: "Writeup: APIs of a certain service"
 date: 2023-04-01T13:23:39+08:00
 draft: false
+tags: ["生活小寄巧"]
 ---
 
 # USE AT YOUR OWN RISK

@@ -1,7 +1,9 @@
 ---
-title: "Revied: A 19.9CNY HDMI-USB Adapter"
+title: "Review: A 19.9CNY HDMI-USB Adapter"
 date: 2023-04-07T14:56:06+08:00
 draft: false
+tags:  ["生活小寄巧","什么不能买"]
+
 ---
 
 
