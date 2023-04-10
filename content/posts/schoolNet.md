@@ -4,7 +4,7 @@ date: 2023-04-01T13:23:39+08:00
 draft: false
 ---
 
-# 0 USE AT YOUR OWN RISK
+# USE AT YOUR OWN RISK
 
 Basic Variable Tables:
 |--|--|
@@ -54,7 +54,7 @@ var:
 
 code:
 ```bash
-curl 'http://'${base_url}'/1/eportal/?c=IsOnline&a=logout&callback='${callback}'&account='${idop}'&_=156467841534' \
+curl 'http://'${base_url}'/eportal/?c=IsOnline&a=logout&callback='${callback}'&account='${idop}'&_=156467841534' \
   -H 'Accept: */*' \
   -H 'Connection: keep-alive' \
   -H 'Referer: '${base_url}'/' \
